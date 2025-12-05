@@ -1,0 +1,25 @@
+/* .container {
+    width: 1000px;
+    background-color: aqua;
+    border: 1px solid black;
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+
+    grid-template-areas:
+        "header header header header"
+        "main   main   main   main"
+        "footer footer footer footer";
+}
+
+.item {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 20px;
+} 
+
+.item1 { grid-area: header; }
+.item2 { grid-area: main; }
+.item3 { grid-area: footer; } */
